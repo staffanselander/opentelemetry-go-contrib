@@ -1,0 +1,47 @@
+instrumentation/github.com/gin-gonic/gin/otelgin/config.go
+  s_3d1ee38ea3d845::t_266b27d3466401 27,71-74,142,145-147
+  s_d185f7581cc801::t_072d6f722c146a 143-144
+  s_3d1ee38ea3d845::t_5451182bff6145 148-150
+instrumentation/github.com/gin-gonic/gin/otelgin/gin_test.go
+  s_3d1ee38ea3d845::t_619253c4e6f9fb 402,407,412-415,422,445
+  s_3d1ee38ea3d845::t_b8bab53cefbe1c 392,400
+  s_3d1ee38ea3d845::t_622b676a989a5b 329-330,363,375,425-426
+  s_3d1ee38ea3d845::t_1879744a0afe04 366-367,369-373,376,408-409,411,433,435
+  s_d185f7581cc801::t_76d3b2d906e114 265-293,295-316,318-327,331-362,364-365,368,374,377-387,389,401,403-406,410,416-421,423-424,427-430,434,436,439-444,446-447
+  s_3d1ee38ea3d845::t_46fcdf805a214c 388
+  s_3d1ee38ea3d845::t_b12479a3f85c87 431-432
+  s_3d1ee38ea3d845::t_632e6f3dee41c8 437-438
+  s_3d1ee38ea3d845::t_2d2cab66613aa7 448-449
+  s_3d1ee38ea3d845::t_3cf31eece0947b 294,317,328
+  s_d185f7581cc801::t_7299f6e4563cac 390-391,393-399
+CHANGELOG.md
+  s_3d1ee38ea3d845::t_307130679c79ae 13
+instrumentation/github.com/gin-gonic/gin/otelgin/gin.go
+  s_3d1ee38ea3d845::t_266b27d3466401 146-151,159-160
+  s_3d1ee38ea3d845::t_a00efbf8e6d89b 122,144-145,156-157
+  s_3d1ee38ea3d845::t_1411639bc8c27a 123,129,152-155,158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1501ad67993019151038985c4155da4d88cc0618",
+  "prompts": {},
+  "sessions": {
+    "s_3d1ee38ea3d845": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e359132edffeDTxMwRWKgG7SF1",
+        "model": "unknown"
+      },
+      "human_author": "Staffan Selander <staffan.selander.li@gmail.com>"
+    },
+    "s_d185f7581cc801": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e308c925affeX96dJ8Lj5E3g23",
+        "model": "unknown"
+      },
+      "human_author": null
+    }
+  }
+}
