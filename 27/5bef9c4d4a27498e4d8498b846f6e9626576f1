@@ -1,0 +1,19 @@
+CHANGELOG.md
+  s_3d1ee38ea3d845::t_307130679c79ae 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "275bef9c4d4a27498e4d8498b846f6e9626576f1",
+  "prompts": {},
+  "sessions": {
+    "s_3d1ee38ea3d845": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e359132edffeDTxMwRWKgG7SF1",
+        "model": "unknown"
+      },
+      "human_author": "Staffan Selander <staffan.selander.li@gmail.com>"
+    }
+  }
+}
