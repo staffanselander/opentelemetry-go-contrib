@@ -1,0 +1,52 @@
+instrumentation/github.com/gin-gonic/gin/otelgin/gin.go
+  s_3d1ee38ea3d845::t_266b27d3466401 146-151,159-160
+  s_3d1ee38ea3d845::t_a00efbf8e6d89b 122,144-145,156-157
+  s_3d1ee38ea3d845::t_1411639bc8c27a 123,129,152-155,158
+instrumentation/github.com/gin-gonic/gin/otelgin/gin_test.go
+  s_3d1ee38ea3d845::t_46fcdf805a214c 376
+  s_3d1ee38ea3d845::t_f78179593e1524 354
+  s_3d1ee38ea3d845::t_b12479a3f85c87 415-416
+  s_3d1ee38ea3d845::t_622b676a989a5b 266,352-353,355-357,369-370,411-412
+  s_3d1ee38ea3d845::t_d1177ce8f4a16f 279
+  s_3d1ee38ea3d845::t_b8bab53cefbe1c 383-385,388
+  s_3d1ee38ea3d845::t_3cf31eece0947b 267-268,276-278,280-283,286-287,291-292,294-300,303-304,306-308,310-315,318,320-335,337-340,342-348,350-351
+  s_3d1ee38ea3d845::t_c6ee1a75568367 265,269-275,284-285,288-290,293,301-302,305,309,316-317,319,336,341,349
+  s_3d1ee38ea3d845::t_619253c4e6f9fb 396-399,402,404-407,409-410,414,424-425
+  s_3d1ee38ea3d845::t_f03364dbd72622 372,408,423
+  s_3d1ee38ea3d845::t_17aed33cf664a1 380-382,386-387,389-395
+  s_3d1ee38ea3d845::t_2d2cab66613aa7 426-427
+  s_3d1ee38ea3d845::t_a61f50862387ea 377-379
+  s_3d1ee38ea3d845::t_632e6f3dee41c8 413,420-422
+  s_3d1ee38ea3d845::t_1879744a0afe04 358-368,371,400-401,403,417-419
+  s_3d1ee38ea3d845::t_4b8cd7c139bddd 373-375
+instrumentation/github.com/gin-gonic/gin/otelgin/config.go
+  s_3d1ee38ea3d845::t_266b27d3466401 27,71-74,142,145-147
+  s_d185f7581cc801::t_072d6f722c146a 143-144
+  s_3d1ee38ea3d845::t_5451182bff6145 148-150
+CHANGELOG.md
+  s_3d1ee38ea3d845::t_307130679c79ae 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "459885069ea72173af989089e3a85ec311aa93c0",
+  "prompts": {},
+  "sessions": {
+    "s_3d1ee38ea3d845": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e359132edffeDTxMwRWKgG7SF1",
+        "model": "unknown"
+      },
+      "human_author": "Staffan Selander <staffan.selander.li@gmail.com>"
+    },
+    "s_d185f7581cc801": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e308c925affeX96dJ8Lj5E3g23",
+        "model": "unknown"
+      },
+      "human_author": null
+    }
+  }
+}
